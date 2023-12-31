@@ -228,7 +228,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to reach out to me via email or shoot a note using this form!
+        Please feel free to reach out to me via email or shoot me a note using this form!
       # Contact (add or remove contact options as necessary)
       email: robert.wan at emory.edu
       # phone: 888 888 88 88

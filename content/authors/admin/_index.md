@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Robert Wan 
+title: 万之华
 
 # Name pronunciation (optional)
-name_pronunciation: 万之华
+name_pronunciation: Robert Wan 
 
 # Full name (for SEO)
 first_name: Zhihua (Robert)
