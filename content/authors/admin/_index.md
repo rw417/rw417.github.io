@@ -29,13 +29,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Methods
-    - Dimensionality Reduction
-    - Machine Learning
-    - Time Series
+  - Machine Learning
+  - Time Series
   - Statistical Genetics
   - Precision Medicine
-  - Electronic Health Records Mining
+  - Electronic Health Records
 
 # Education to show in About widget
 education:
@@ -52,8 +50,8 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-Skills and Hobbies:
-  - name: Technical
+skills and hobbies:
+  - name: Skills
     items:
       - name: Python
         description: ''
@@ -62,12 +60,12 @@ Skills and Hobbies:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 100
+        # percent: 100
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -77,16 +75,16 @@ Skills and Hobbies:
       - name: Classical Music
         description: ''
         percent: 100
-        icon: music
+        # icon: music
         icon_pack: fas
       - name: Cycling
         description: ''
-        percent: 100
+        # percent: 100
         icon: bicycle
         icon_pack: fas
       - name: Jogging
         description: ''
-        percent: 100
+        # percent: 100
         icon: person-running
         icon_pack: fas
       
@@ -124,6 +122,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Note: this is a WIP. Please check back in a few days.
 
 Zhihua (Robert) Wan is a PhD student in Biostatistics at the Rollins School of Public Health, Emory University.
 {style="text-align: justify;"}
