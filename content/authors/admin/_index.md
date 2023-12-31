@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 万之华
+title: Robert Wan 
 
 # Name pronunciation (optional)
-name_pronunciation: Zhihua (Robert) Wan 
+name_pronunciation: 万之华
 
 # Full name (for SEO)
 first_name: Zhihua (Robert)
@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD Student in Biostatistics
       institution: Emory University
-      year: \n 2023-
+      year: 2023 -
     - course: MS in Data Science
       institution: Duke University
       year: 2023
@@ -74,8 +74,8 @@ skills:
     items:
       - name: Classical Music
         description: ''
-        percent: 100
-        # icon: music
+        # percent: 100
+        icon: music
         icon_pack: fas
       - name: Cycling
         description: ''
@@ -124,5 +124,5 @@ highlight_name: true
 ---
 Note: this is a WIP. Please check back in a few days.
 
-Zhihua (Robert) Wan is a PhD student in Biostatistics at the Rollins School of Public Health, Emory University.
+I am PhD student in Biostatistics at the Rollins School of Public Health, Emory University.
 {style="text-align: justify;"}
