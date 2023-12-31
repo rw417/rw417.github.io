@@ -29,14 +29,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Methods
-    - Dimensionality Reduction
-    - Machine Learning
-    - Time Series
-  - Application
-    - Statistical Genetics
-    - Precision Medicine
-    - Electronic Health Records Mining
+  - Dimensionality Reduction
+  - Machine Learning
+  - Time Series
+  - Statistical Genetics
+  - Precision Medicine
+  - Electronic Health Records Mining
 
 # Education to show in About widget
 education:
