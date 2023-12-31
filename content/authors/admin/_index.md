@@ -29,9 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Dimensionality Reduction
-  - Machine Learning
-  - Time Series
+  - Methods
+    - Dimensionality Reduction
+    - Machine Learning
+    - Time Series
   - Statistical Genetics
   - Precision Medicine
   - Electronic Health Records Mining
@@ -41,7 +42,7 @@ education:
   courses:
     - course: PhD Student in Biostatistics
       institution: Emory University
-      year: 2023-
+      year: \n 2023-
     - course: MS in Data Science
       institution: Duke University
       year: 2023
@@ -56,7 +57,7 @@ Skills and Hobbies:
     items:
       - name: Python
         description: ''
-        percent: 100
+        # percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
