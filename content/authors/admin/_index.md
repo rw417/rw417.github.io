@@ -29,9 +29,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Methods
+    - Dimensionality Reduction
+    - Machine Learning
+    - Time Series
+  - Application
+    - Statistical Genetics
+    - Precision Medicine
+    - Electronic Health Records Mining
 
 # Education to show in About widget
 education:
@@ -48,38 +53,44 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+Skills and Hobbies:
   - name: Technical
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        # percent: 100
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Classical Music
         description: ''
-        percent: 60
-        icon: person-hiking
+        # percent: 60
+        icon: music
         icon_pack: fas
-      - name: Photography
+      - name: Cycling
         description: ''
-        percent: 80
-        icon: camera-retro
+        # percent: 80
+        icon: bicycle
         icon_pack: fas
+      - name: Jogging
+        description: ''
+        # percent: 80
+        icon: person-running
+        icon_pack: fas
+      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
