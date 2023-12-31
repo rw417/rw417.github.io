@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD Student in Biostatistics
       institution: Emory University
-      year: \n 2023-
+      year: 2023-
     - course: MS in Data Science
       institution: Duke University
       year: 2023
@@ -56,17 +56,17 @@ Skills and Hobbies:
     items:
       - name: Python
         description: ''
-        # percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        # percent: 100
+        percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        # percent: 100
+        percent: 100
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -75,17 +75,17 @@ Skills and Hobbies:
     items:
       - name: Classical Music
         description: ''
-        # percent: 60
+        percent: 100
         icon: music
         icon_pack: fas
       - name: Cycling
         description: ''
-        # percent: 80
+        percent: 100
         icon: bicycle
         icon_pack: fas
       - name: Jogging
         description: ''
-        # percent: 80
+        percent: 100
         icon: person-running
         icon_pack: fas
       
