@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Zhihua (Robert) Wan 万之华
+title: 万之华
 
 # Name pronunciation (optional)
-# name_pronunciation: 
+name_pronunciation: Zhihua (Robert) Wan 
 
 # Full name (for SEO)
 first_name: Zhihua (Robert)
@@ -38,13 +38,13 @@ education:
   courses:
     - course: PhD Student in Biostatistics
       institution: Emory University
-      year: 2023-
+      year: \n 2023-
     - course: MS in Data Science
       institution: Duke University
-      year: 2021-2023
+      year: 2023
     - course: BA in Economics, Statistics
       institution: Northwestern University
-      year: 2014-2018
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
